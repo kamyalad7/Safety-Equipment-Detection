@@ -1,0 +1,11 @@
+path: C:/Users/LAD/Desktop/Internship/Data/img_data
+train: train/images
+val: val/images
+
+names: 
+    0: Helmet 
+    1: Goggles 
+    2: Gloves 
+    3: Jacket
+    4: Shoes
+    5: Person

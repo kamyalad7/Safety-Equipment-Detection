@@ -1,0 +1,10 @@
+names:
+- Helmet
+- Goggles
+- Gloves
+- Jacket
+- Shoes
+- Person
+nc: 6
+train: Desktop/Internship/Data/train
+val: Desktop/Internship/Data/val
